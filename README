@@ -11,4 +11,7 @@ Tabela FATO do projeto
 Projeto Final BASE DE DADOS PIB 2010-2014
 
 1. 24/04 - 25/04 - Criar Modelagem Multidimensional(Estrela)
-2. 25/04 - 02/05
+2. 25/04 - 02/05 - Processo de ETL
+3. 08/05 - 09/05 - Geração de Relatário utilizando a ferramenta
+4. 15/05 - 16/05 - Criação do CUBO no Schema Wrorkbench
+5. 21/05 - 22/05 - Criação e visualização do DASHBOARD
