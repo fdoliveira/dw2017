@@ -1,0 +1,14 @@
+Tabela FATO do projeto
+
+|---------------------|
+| ft_pib              |
+|---------------------|
+|- pib_preco_corrente |
+|- populacao          |
+|- pib_per_capita     |
+|---------------------|
+
+Projeto Final BASE DE DADOS PIB 2010-2014
+
+1. 24/04 - 25/04 - Criar Modelagem Multidimensional(Estrela)
+2. 25/04 - 02/05
